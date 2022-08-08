@@ -1,0 +1,25 @@
+
+h1{
+    font-size: 45px;
+    color: rgb(223, 223, 148);
+}
+
+
+body{
+    color: rgba(85, 16, 150, 0.459);
+}
+footer{
+    font-size: 30px;
+}
+h2{
+    font-size: 60px;
+    color: blue;
+}
+h3{
+    font-size: 60px;
+    color: brown;
+}
+p{
+    color: blue;
+}
+
